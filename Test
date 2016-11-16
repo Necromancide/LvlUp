@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test Page</title>
+</head>
+<body bgcolor="#ffe4c4">
+<hr/>
+<b><font size="4" color="red" face="Verdana">Headers 1-6</font></b>
+<h1>[h1]</h1>
+<h2>[h2]</h2>
+<h3>[h3]</h3>
+<h4>[h4]</h4>
+<h5>[h5]</h5>
+<h6>[h6]</h6>
+<hr/>
+<b><font size="4" color="red" face="Verdana">Text Formating</font></b>
+<p>
+<b>Fat [b]</b>
+<i>Cursive [i]</i>
+<u>Underlined [u]</u>
+<strike>[Strike]</strike>
+<sub>text [sub]</sub>
+<sup>text [sup]</sup>
+</p>
+<hr/>
+<b><font size="4" color="red" face="Verdana">Lists</font></b>
+<p>
+<b><font size="3" color="red" face="Verdana">No number list [ul]</font></b><br/>
+<font size="2" color="red" face="Verdana"><i>Attrib: type="disc, circle, square"</i></font>
+</p>
+<ul>
+<li>First String [li]</li>
+<li>Second String [li]</li>
+</ul>
+<p>
+<b><font size="4" color="red" face="Verdana">Number List [ol]</font></b><br/>
+<font size="3" color="red" face="Verdana"><i>Attrib: type="1, A, a, I, i"</i></font>
+</p>
+<ol>
+<li>First String [li]</li>
+<li>Second String [li]</li>
+</ol>
+
+<hr/>
+</body>
+</html>
